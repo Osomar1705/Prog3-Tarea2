@@ -1,0 +1,3 @@
+C:/Users/osman/Prog3-Tarea2/cmake-build-debug/CMakeFiles/CoreNumeric.dir
+C:/Users/osman/Prog3-Tarea2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/osman/Prog3-Tarea2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

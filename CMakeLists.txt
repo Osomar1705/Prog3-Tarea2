@@ -1,6 +1,7 @@
-cmake_minimum_required(VERSION 3.31)
-project(Prog3_Tarea2)
+cmake_minimum_required(VERSION 3.10)
+project(CoreNumeric)
 
 set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(Prog3_Tarea2 main.cpp)
+add_executable(CoreNumeric test.cpp)
